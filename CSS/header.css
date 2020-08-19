@@ -1,0 +1,10 @@
+.jumbotron { 
+    background: url(../assets/photo-1490750967868-88aa4486c946.jpg) no-repeat center;
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px black;
+    }
+
+    .display-4 {
+        font-size: 150px;
+    }

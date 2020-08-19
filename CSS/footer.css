@@ -1,0 +1,9 @@
+footer {
+background: var(--purple);
+background-size: cover;
+color: var(--cream);
+font-family: var(--font-two);
+font-size: 15px;
+height: 24px;
+margin-bottom: 0;
+}

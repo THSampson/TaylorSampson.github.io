@@ -1,0 +1,15 @@
+body {
+    background: var(--lightBlue);
+    font-family: var(--font-two);
+    text-align: center;
+}
+
+h1 {
+    font-family: var(--font-one);
+}
+
+h3 {
+    padding-bottom: 20px;
+}
+
+

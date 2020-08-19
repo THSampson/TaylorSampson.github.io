@@ -1,0 +1,11 @@
+.contact {
+    padding-bottom: 100px;
+    font-family: var(--font-two);
+
+}
+
+h4 {
+    padding-top: 50px;
+    font-family: var(--font-one);
+    font-size: 50px;
+}
